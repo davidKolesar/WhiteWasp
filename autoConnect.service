@@ -1,0 +1,9 @@
+[Unit]
+Description=Automatically connect to random nordVPN node on startup.
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /home/name/scripts/autoVPNConnect.sh
+
+[Install]
+WantedBy=multi-user.target
