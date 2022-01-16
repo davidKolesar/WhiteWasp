@@ -9,7 +9,7 @@ It's offered as is.
 Don't be an idiot. 
 
 
-#How to use this script:
+# How to use this script:
 
 **0. Modify the existing service file in this repository *-or-* create a service file that will call the script. Your service file should look as follows:**
 
