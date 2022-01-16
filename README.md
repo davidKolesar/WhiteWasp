@@ -40,6 +40,8 @@ WantedBy=multi-user.target
      sudo systemctl enable autoConnect.service
 ```
 
+# That's it!
+
 Upon reboot, you should automatically connect to a random country.  You should get a snackbar notification on your desktop, but can double-check in any terminal with:
 ```
 nordvpn status
