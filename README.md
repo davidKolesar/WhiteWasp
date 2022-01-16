@@ -13,7 +13,8 @@ Don't be an idiot.
 
 **0. Modify the existing service file in this repository *-or-* create a service file that will call the script. Your service file should look as follows:**
 
-```[Unit]
+```
+[Unit]
 Description=Automatically connect to randon NordVPN node on startup.
 
 [Service]
