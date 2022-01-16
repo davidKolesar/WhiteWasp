@@ -1,15 +1,6 @@
-
-╭╮╭╮╭┳╮╱╱╭╮╱╱╱╭╮╭╮╭╮
-┃┃┃┃┃┃┃╱╭╯╰╮╱╱┃┃┃┃┃┃
-┃┃┃┃┃┃╰━╋╮╭╋━━┫┃┃┃┃┣━━┳━━┳━━╮
-┃╰╯╰╯┃╭╮┣┫┃┃┃━┫╰╯╰╯┃╭╮┃━━┫╭╮┃
-╰╮╭╮╭┫┃┃┃┃╰┫┃━╋╮╭╮╭┫╭╮┣━━┃╰╯┃
-╱╰╯╰╯╰╯╰┻┻━┻━━╯╰╯╰╯╰╯╰┻━━┫╭━╯
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰╯
+# WhiteWasp
 - David Kolesar, Jan '22
 
-# WhiteWasp
 This is a bash script for Linux (Ubuntu distro) that automatically connects to a random node on NordVPN upon computer login. 
 I am not liable for what you do with this script. That includes (but is not limited to) criminal behavior or damages. 
 
